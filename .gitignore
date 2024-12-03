@@ -1,0 +1,55 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# Logs
+logs
+*.log
+*.log.*
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Directory for TypeScript definition files
+typings/
+
+# VS Code settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Build output
+/dist
+/build
+
+# Coverage directory for tools like istanbul
+coverage/
+
+# Next.js build output
+.next/
+
+# SvelteKit build output
+.svelte-kit/
+
+# Serverless directories
+.serverless/
+
+# dotenv environment variables file
+.env.local
+.env.*.local
+
+# IDE specific files
+.idea/
+
+# OS generated files
+ehthumbs.db
+Desktop.ini
