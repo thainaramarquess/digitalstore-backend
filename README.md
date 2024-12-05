@@ -14,33 +14,33 @@ MySQL (ou outro banco de dados configurado no arquivo .env)
 # Instalação
 Clone o repositório para sua máquina local:
 
-bash
+```bash
 
 Copiar código
 
 git clone https://github.com/thainaramarquess/digitalstore-backend.git
-
+```
 ## Instale as dependências do projeto com o Yarn
 
 Navegue até o diretório do projeto e execute:
 
-bash
+```bash
 
 Copiar código
 
 yarn install
-
+```
 Isso instalará todas as bibliotecas e dependências definidas no arquivo package.json.
 
 ## Como iniciar o projeto?
 
 Para executar o backend, utilize o comando:
 
-bash
+```bash
 
 Copiar código
 
 yarn start
-
+```
 O servidor será iniciado em http://localhost:3000. A documentação da API estará acessível em:
 http://localhost:3000/api-docs.
